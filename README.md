@@ -1,4 +1,4 @@
-USB-Mail-Notifier
+USB Mail Notifier
 =================
 
 Custom Dream Cheeky USB Mail Notifier LightBox Control
