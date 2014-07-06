@@ -1,0 +1,10 @@
+C:\Users\Admin\Dropbox\Projects\USBMailNotifierTest\USBMailNotifierTest\bin\Release\USBMailNotifierTest.exe.config
+C:\Users\Admin\Dropbox\Projects\USBMailNotifierTest\USBMailNotifierTest\bin\Release\USBMailNotifierTest.exe
+C:\Users\Admin\Dropbox\Projects\USBMailNotifierTest\USBMailNotifierTest\bin\Release\USBMailNotifierTest.pdb
+C:\Users\Admin\Dropbox\Projects\USBMailNotifierTest\USBMailNotifierTest\bin\Release\HIDLibrary.dll
+C:\Users\Admin\Dropbox\Projects\USBMailNotifierTest\USBMailNotifierTest\obj\Release\USBMailNotifierTest.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Dropbox\Projects\USBMailNotifierTest\USBMailNotifierTest\obj\Release\USBMailNotifierTest.MainForm.resources
+C:\Users\Admin\Dropbox\Projects\USBMailNotifierTest\USBMailNotifierTest\obj\Release\USBMailNotifierTest.Properties.Resources.resources
+C:\Users\Admin\Dropbox\Projects\USBMailNotifierTest\USBMailNotifierTest\obj\Release\USBMailNotifierTest.csproj.GenerateResource.Cache
+C:\Users\Admin\Dropbox\Projects\USBMailNotifierTest\USBMailNotifierTest\obj\Release\USBMailNotifierTest.exe
+C:\Users\Admin\Dropbox\Projects\USBMailNotifierTest\USBMailNotifierTest\obj\Release\USBMailNotifierTest.pdb
